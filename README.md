@@ -1,6 +1,3 @@
-# Course-Challenges-
-
-
 # 🚀 My Biggest Challenges on the Course
 
 This document highlights the main technical challenges I faced during the course, how I approached solving them, and the key lessons I learned.
