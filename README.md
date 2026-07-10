@@ -66,7 +66,7 @@ When connecting an **Application VM** to a **Database VM**, several components n
 - 🔒 Security Group rules
 - 🔌 Required ports
 - 🌍 Private and public IP addresses
-- 🗄️ Database access permissions
+  
 
 For example:
 
